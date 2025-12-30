@@ -16,7 +16,6 @@
 - `Massachusetts Institute of Technology`, MIT xPRO
 - Professional Certificate in Coding, Full Stack MERN Development
 - [Published author](https://www.forbes.com/sites/pete-chu/) on `Forbes.com`
-- Software Engineer at [Accolade, Inc.](https://www.accolade.com)
 
 <!-- ## Technology Stack
 <img src='./logos/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='./logos/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='./logos/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='./logos/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='./logos/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='./logos/vsCodeLogo.png' alt='VS Code logo' width='30'> <img src='./logos/mernStackTrans.png' alt='VS Code logo' height='40'> -->
